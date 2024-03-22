@@ -1,4 +1,4 @@
-dd is a [human](https://raw.githubusercontent.com/ddnomad/ddnomad/main/photos/human.jpg). Does human things, mostly enjoys cysec related work, mechanical keyboards, single player computer games and anime. Lately fell into the rabbit hole of 3D printing and electronics. It should be fine, long as the rabbit hole does not automagically turn itself into a glory hole.
+dd is a [human](https://raw.githubusercontent.com/ddnomad/ddnomad/main/photos/human.jpg).
 
 [![dd's GitLab](./badges/gitlab.svg)](https://gitlab.com/ddnomad)
 [![dd's Lemmy](./badges/lemmy.svg)](https://infosec.pub/u/ddnomad)
